@@ -13,12 +13,12 @@ body {
 #root {
   width: 100%;
   height: 100%;
-}
-/* Our App Container */
+} 
+
 .container {
   padding-bottom: 80px;
 }
-/* The header */
+
 .header {
   font-size: 22px;
   font-weight: bold;
@@ -27,7 +27,7 @@ body {
   background: #3367d6;
   padding: 40px;
 }
-/* The note */
+
 .note {
   color: #000000;
   padding: 40px;
@@ -43,7 +43,7 @@ body {
 .note:hover {
   transform: scale(1.02);
 }
-/* The add note button */
+
 .btn {
   position: fixed;
   z-index: 1;
@@ -67,7 +67,7 @@ body {
 .btn:hover {
   transform: scale(1.05);
 }
-/* Textinput */
+
 .textInput {
   position: fixed;
   bottom: 0;
